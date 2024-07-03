@@ -1,0 +1,5 @@
+venv
+__pycache_
+logging.txt
+alembic.ini
+.env
